@@ -27,7 +27,7 @@ marketing
 
 ###### Gennaio 2017 – Marzo 2019
 d’Arco Italia Srl – Milano
-- Sviluppo applicativi web, gestionali e gestione flussi della fatturazione. 
+Sviluppo applicativi web, gestionali e gestione flussi della fatturazione. 
 Ambito: monitoring, medical.
 - Sviluppo processi automatici, micro-servizi, webapp, landing 
 page (PHP, JSP, MySQL, MSSQL)
@@ -38,7 +38,7 @@ Realtime Database)
 
 ###### Maggio 2012 – Dicembre 2016 
 BMFactory – Cologno Monzese
-- Sviluppo siti vetrina, blog, ecommerce, portali e gestionali.
+Sviluppo siti vetrina, blog, ecommerce, portali e gestionali.
 Ambito: intrattenimento, merchandising, moda.
 - Sviluppo applicativi web come gestionali, configuratori di prodotto 
 e generatori di preventivi (PHP, MySQL, HTML, CSS, JavaScript)
